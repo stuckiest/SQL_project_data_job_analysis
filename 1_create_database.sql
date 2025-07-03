@@ -1,0 +1,4 @@
+--CREATE DATABASE sql_course;
+-- You don't need to create the database if it already exists -- and you don't need to drop it
+--and then create it again!
+-- DROP DATABASE IF EXISTS sql_course;
