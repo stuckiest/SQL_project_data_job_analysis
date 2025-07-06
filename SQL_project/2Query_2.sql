@@ -31,3 +31,8 @@ INNER JOIN skills_dim
  --for each skill - each row has all the info from
  -- the job repeated, but the skill is unique in that row
 ORDER BY salary_year_avg DESC;
+
+/*Results show that SQL, Python and Tableu were top 3
+skills for the 10 jobs we looked at.
+SQl mentioned 8 times, Python mentioned 7 times 
+and Tableu mentioned 6 or 7 times. */
