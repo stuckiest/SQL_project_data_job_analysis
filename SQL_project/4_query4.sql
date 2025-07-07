@@ -15,5 +15,5 @@ INNER JOIN skills_dim
     AND salary_year_avg IS NOT NULL
     --AND job_work_from_home = TRUE
     GROUP BY skills
-    --ORDER BY average_salary DESC; 
-    ORDER BY skill_counts DESC;
+    ORDER BY average_salary DESC; 
+    --ORDER BY skill_counts DESC;
